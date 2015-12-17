@@ -1,0 +1,19 @@
+{
+  "name": "appstore-resizer",
+  "version": "1.0.0",
+  "description": "resize images for app store",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "appstore",
+    "images",
+    "resizer"
+  ],
+  "author": "Jarbit Lira <jarbitlira@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "easyimage": "^2.1.0"
+  }
+}
